@@ -1,0 +1,5 @@
+https://catalog.data.gov/dataset/crimes-2001-to-present-398a4
+
+This data set reflects reported incidents of Crime. We choose this data set because it is published on data.gov,
+which appears to be one of the most reliable data websites. We want to analysis what may be the factor or potential cause regarding the crime rate.
+We may need more data sets to analysis the rationale later on.
